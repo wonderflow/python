@@ -1,3 +1,7 @@
+# a python script used to install bosh
+# the script is half completed with lots of inconvenient
+# 1.you need to download the gz bags first
+# 2.you need to watch sometimes to find if your .catch folder need to be removed
 import re
 import time
 import os
