@@ -1,4 +1,5 @@
-# a python script used to install bosh
+# a python script used to bosh create cf-release
+# as i can't tolerate the net speed downloading gems and it occur problems
 # maybe there still some bugs
 # you may delete some git in .cache if it occur problem such as some git can't be find
 # you may use $tail -f b.txt  to find what happened
