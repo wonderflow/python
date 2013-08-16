@@ -1,5 +1,7 @@
 # a python script used to install bosh
 # maybe there still some bugs
+# you may delete some git in .cache if it occur problem such as some git can't be find
+# you may use $tail -f b.txt  to find what happened
 import re
 import time
 import os
